@@ -1,4 +1,4 @@
-# Welcome to Our Law Awareness Website
+# Welcome to Our Law Aware Website
 
 ![Website Screenshot](rImages/rHomePage.png)
 
